@@ -20,7 +20,7 @@ The implementation of models in Keras can be found in this [Jupyter Notebook](<h
 
 
 
-##Github Reference
+## Github Reference
 
 https://github.com/NVIDIA/DeepRecommender
 

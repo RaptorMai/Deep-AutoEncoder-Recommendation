@@ -1,6 +1,6 @@
 # Deep-AutoEncoder-Recommendation
 
-Autoencoder has been widely adopted into Collaborative Filtering (CF) for recommendation system. A classic CF problem is inferring the missing rating in an MxN matrix R where R(i, j) is the ratings given by the i<sup>th</sup> user to the j<sup>th</sup> item. This project is a Keras implementation of  AutoRec [1] and Deep AutoRec [2] and additional experiments will be run. 
+Autoencoder has been widely adopted into Collaborative Filtering (CF) for recommendation system. A classic CF problem is inferring the missing rating in an MxN matrix R where R(i, j) is the ratings given by the i<sup>th</sup> user to the j<sup>th</sup> item. This project is a Keras implementation of  AutoRec [1] and Deep AutoRec [2] with additional experiments such as the impact of default rating of users or ratings. 
 
 The Dataset I used for this project is MovieLens 1M Dataset and can be downloaded from [here](<https://grouplens.org/datasets/movielens/1m/>). 
 
